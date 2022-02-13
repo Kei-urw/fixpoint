@@ -1,3 +1,5 @@
+プログラムの内容説明はコードにあるため省略<br>
+
 設問1<br>
 コンソール上にpython3 ex1.pyと入力<br>
 input filenameと出力されるので、監視ログファイルの名前を入力する<br>
@@ -86,4 +88,13 @@ Failur time:3 days, 12:56:54<br>
 Failur time:1 day, 22:58:59<br>
 ・・・<br>
 <br>
-プログラムの内容説明はコードにあるため省略<br>
+ファイル情報<br>
+ex1.py:設問1のソースコード<br>
+ex2.py:設問2のソースコード<br>
+ex3.py:設問3のソースコード<br>
+ex4.py:設問4のソースコード<br>
+result1.txt:設問1の実行結果例<br>
+result2.txt:設問2の実行結果例<br>
+result3.txt:設問3の実行結果例<br>
+result4.txt:設問4の実行結果例<br>
+log.txt:監視ログファイル<br>
